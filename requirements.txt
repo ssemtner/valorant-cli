@@ -1,0 +1,2 @@
+aiohttp~=3.8.1
+git+https://github.com/floxay/python-riot-auth.git # riot_auth
